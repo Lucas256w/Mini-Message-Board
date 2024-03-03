@@ -14,9 +14,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
         width="48"
         height="48"
-        alt="React"/>
+        alt="Node"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
         width="48"
         height="48"
-        alt="HTML5"/>
+        alt="Express"/>
 </p>
